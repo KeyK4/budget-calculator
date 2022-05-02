@@ -1,0 +1,11 @@
+D:\C#\budget-calculator\budget-calculator\bin\Debug\budget-calculator.exe.config
+D:\C#\budget-calculator\budget-calculator\bin\Debug\budget-calculator.exe
+D:\C#\budget-calculator\budget-calculator\bin\Debug\budget-calculator.pdb
+D:\C#\budget-calculator\budget-calculator\obj\Debug\budget-calculator.csproj.AssemblyReference.cache
+D:\C#\budget-calculator\budget-calculator\obj\Debug\budget-calculator.csproj.SuggestedBindingRedirects.cache
+D:\C#\budget-calculator\budget-calculator\obj\Debug\budget_calculator.Main_screen.resources
+D:\C#\budget-calculator\budget-calculator\obj\Debug\budget_calculator.Properties.Resources.resources
+D:\C#\budget-calculator\budget-calculator\obj\Debug\budget-calculator.csproj.GenerateResource.cache
+D:\C#\budget-calculator\budget-calculator\obj\Debug\budget-calculator.csproj.CoreCompileInputs.cache
+D:\C#\budget-calculator\budget-calculator\obj\Debug\budget-calculator.exe
+D:\C#\budget-calculator\budget-calculator\obj\Debug\budget-calculator.pdb
