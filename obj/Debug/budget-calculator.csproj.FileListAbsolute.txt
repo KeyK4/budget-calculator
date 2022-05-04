@@ -9,3 +9,4 @@ D:\C#\budget-calculator\budget-calculator\obj\Debug\budget-calculator.csproj.Gen
 D:\C#\budget-calculator\budget-calculator\obj\Debug\budget-calculator.csproj.CoreCompileInputs.cache
 D:\C#\budget-calculator\budget-calculator\obj\Debug\budget-calculator.exe
 D:\C#\budget-calculator\budget-calculator\obj\Debug\budget-calculator.pdb
+D:\C#\budget-calculator\budget-calculator\obj\Debug\budget_calculator.Add_form.resources
